@@ -1,3 +1,4 @@
+
 Song.delete_all
 Genre.delete_all
 Artist.delete_all
